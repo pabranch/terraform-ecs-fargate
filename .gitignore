@@ -5,3 +5,7 @@
 
 # Module directory
 .terraform/
+
+# Secrets
+terraform.tfvars
+**/*.auto.tfvars
